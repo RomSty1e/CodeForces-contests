@@ -1,5 +1,4 @@
 Условие: https://codeforces.com/problemset/problem/4/A
-[a link](https://codeforces.com/problemset/problem/4/A)
 
 #include <iostream>
 #include <vector>
