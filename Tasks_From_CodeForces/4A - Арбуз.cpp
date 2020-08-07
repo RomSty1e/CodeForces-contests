@@ -1,4 +1,4 @@
-Условие: https://codeforces.com/problemset/problem/4/A
+Условие: [id]: https://codeforces.com/problemset/problem/4/A
 
 #include <iostream>
 #include <vector>
