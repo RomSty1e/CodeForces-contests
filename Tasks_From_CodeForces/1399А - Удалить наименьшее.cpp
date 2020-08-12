@@ -1,3 +1,5 @@
+Условие: https://codeforces.com/contest/1399/problem/A
+
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -59,8 +61,6 @@ int main()
  
 	for (int i = 0; i < ans.size(); i++)
 		cout << ans[i] << endl;
- 
- 
  
 	//system("pause");
 }
