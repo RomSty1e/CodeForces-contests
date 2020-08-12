@@ -1,3 +1,5 @@
+Условие: https://codeforces.com/contest/1399/problem/B
+
 #include <iostream>
 #include <vector>
 #include <cmath>
